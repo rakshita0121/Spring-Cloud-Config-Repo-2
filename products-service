@@ -11,6 +11,6 @@ spring.datasource.username=sa
 spring.datasource.password=
 spring.jpa.database-platform=org.hobernate.H2Dialect
 management.endpoints.web.expose.include=*
-message="Hello this Product Service for Spring Cloud Service";
+message="Hello from Cofig Server!";
 
 
