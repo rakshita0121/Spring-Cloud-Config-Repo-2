@@ -1,1 +1,3 @@
 message="Hello this Product Service for Spring Cloud Service";
+spring.application.name=products-service
+server.port=8085
